@@ -31,9 +31,6 @@ This is the normal process that you will have to follow in order to interact wit
 
 **Assignment 1**. Please fill in a line with a dataset description at folder [Assignment 1_1](./Assignment1/DatasetDescriptions.csv) also fill requested information at folder [Assignment1_2](./Assignment1/StudentsData.csv), and make a pull request.
 
-**Group Assignment 1 - Teams Data**
-
-
 **The following set of instructions will be updated as we progress during the course**
 
 **Assignment 2 - Data Collection**
@@ -67,7 +64,9 @@ For example, I (my GitHub username is 'MohammadAminDHM') would upload the follow
 **Note 2: If you add your package at PyPi, you give a more score.**
 
 **Group Assignment 2 - EDA**
-...
+Make the App that in this App we get dataset and give to user EDA on his/her dataset.
+You can use tkinter Or Kivy 
+if you want make WebApp you can use streamlit or gradio
 
 **Assignment 4 - Data Preparation**.
 
